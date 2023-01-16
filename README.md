@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeresaZhang11
 - 👀 I’m interested in listenning to music
-- 🌱 I’m currently learning CS+Econ
+- 🌱 I’m currently learning STAT&CS
 - 📫 How to reach me : lingyiz4@illinois.edu
 
 <!---
